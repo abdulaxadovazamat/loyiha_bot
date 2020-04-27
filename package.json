@@ -1,0 +1,16 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": " Bot Registratsiya",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.3",
+    "telegraf": "^3.37.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Azamat",
+  "license": "ISC"
+}
